@@ -1,32 +1,27 @@
-👋 Hi there, I'm Omeruta Jr (Oj)  It's nice to meet you!
-
-I'm a passionate Data Engineer who can ETL any data from anywhere — whether it's tucked deep inside messy websites, APIs, databases, cloud storage, or even PDFs and spreadsheets. 📊🧹
-
-I specialize in building robust data pipelines, designing scalable ETL architectures, and automating the entire data lifecycle from extraction to transformation and loading into clean, query-ready formats. ⚙🚀
+# 💫 About Me:
+👋 Hi there, I'm Omeruta Jr (Oj) It's nice to meet you!<br><br>I'm a passionate Data Engineer who can ETL any data from anywhere — whether it's tucked deep inside messy websites, APIs, databases, cloud storage, or even PDFs and spreadsheets. 📊🧹<br><br>I specialize in building robust data pipelines, designing scalable ETL architectures, and automating the entire data lifecycle from extraction to transformation and loading into clean, query-ready formats. ⚙🚀<br><br>💡 What I Do Best<br><br>🔍 Web Scraping & API Integration<br>Extract structured and unstructured data from any source — fast, clean, and reliable. 🌐📥<br><br>🛠 Data Pipeline Development<br>Build production-grade pipelines using Python, Airflow, SQL, and Cloud Services. 🐍☁<br><br>🧪 Data Transformation & Cleaning<br>Convert raw, chaotic data into gold using Pandas, PySpark, and dbt. 🔄✨<br><br>☁ Cloud & Storage<br>Work seamlessly with AWS, GCP, BigQuery, S3, PostgreSQL, and more. 🗄📦<br><br>🔁 Automation & Orchestration<br>Automate workflows and schedule jobs with Apache Airflow, Cron, and custom scripts. ⏱🧩Feel free to explore my projects or connect with me!<br><br>Let’s turn raw data into valuable insights — one pipeline at a time. 🧠📈<br><br>📫 How to reach me Email - Omerutachiedozie@gmail.com
 
 
-💡 What I Do Best
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Oj7017) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/OmerutaJr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Omeruta Chiedozie) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Omeruta) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/OmerutaJr) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/OmerutaJr) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@OmerutaJr) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/OmerutaJr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Omerutachiedozie@gmail.com) 
 
-🔍 Web Scraping & API Integration  
-Extract structured and unstructured data from any source — fast, clean, and reliable. 🌐📥
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Omeruta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Omeruta&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Omeruta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🛠 Data Pipeline Development  
-Build production-grade pipelines using Python, Airflow, SQL, and Cloud Services. 🐍☁
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Omeruta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-🧪 Data Transformation & Cleaning  
-Convert raw, chaotic data into gold using Pandas, PySpark, and dbt. 🔄✨
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-☁ Cloud & Storage  
-Work seamlessly with AWS, GCP, BigQuery, S3, PostgreSQL, and more. 🗄📦
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Omeruta&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-🔁 Automation & Orchestration  
-Automate workflows and schedule jobs with Apache Airflow, Cron, and custom scripts. ⏱🧩Feel free to explore my projects or connect with me! 
+---
+[![](https://komarev.com/ghpvc/?username=Omeruta&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Let’s turn raw data into valuable insights — one pipeline at a time. 🧠📈
-
-📫 How to reach me Email - Omerutachiedozie@gmail.com
-
-<!---
-Omeruta/Omeruta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
